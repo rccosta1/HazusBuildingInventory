@@ -1,4 +1,4 @@
-# HazusBuildingInventory
+# Hazus Building Inventory Google Collab
 A jupyter notebook with the implementation of the Hazus Building Inventory Technical Manual
 
 Implemented by Rodrigo Costa (rccosta@stanford.edu), February, 2022. This notebook implements the algorithms in the Hazus Building Inventory Technical Manual and can be used to generate synthetic building inventories for communities. It requires two files:
